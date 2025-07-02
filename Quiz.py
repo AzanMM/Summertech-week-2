@@ -22,3 +22,43 @@ if cor_age==('A') or cor_age==('a'):
 else:
     print('False')
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+print('Who has the best scoring season in the NBA all time? ')
+print(" A. LBJ B. MJ C. KAJ D. WC ")
+cor_ans=input('What is the right answer? ')
+if cor_ans==''
